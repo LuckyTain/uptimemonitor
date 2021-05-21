@@ -5,6 +5,12 @@ repo: uptimemonitor # The name of this repository
 sites:
   - name: LuckyTain Blog
     url: https://blog.luckytain.com
+  - name: EQBlog
+    url: https://eqblog.com
+  - name: RBQ.AI
+    url: https://rbq.ai
+  - name: WooMai Blog
+    url: https://woomai.me/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
