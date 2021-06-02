@@ -40,18 +40,20 @@
     "url": "https://rbq.ai",
     "icon": "https://favicons.githubusercontent.com/rbq.ai",
     "slug": "rbq-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 1077,
-    "timeWeek": 730,
-    "timeMonth": 544,
-    "timeYear": 544,
-    "dailyMinutesDown": {}
+    "time": 1611,
+    "timeDay": 8277,
+    "timeWeek": 2574,
+    "timeMonth": 1611,
+    "timeYear": 1611,
+    "dailyMinutesDown": {
+      "2021-06-02": 0
+    }
   },
   {
     "name": "WooMai Blog",
