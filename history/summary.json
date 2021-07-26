@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/rbq.ai",
     "slug": "rbq-ai",
     "status": "up",
-    "uptime": "97.83%",
+    "uptime": "97.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.62%",
-    "uptimeYear": "97.83%",
+    "uptimeYear": "97.86%",
     "time": 1501,
     "timeDay": 135,
     "timeWeek": 682,
@@ -65,9 +65,9 @@
     "url": "https://woomai.me/",
     "icon": "https://favicons.githubusercontent.com/woomai.me",
     "slug": "woo-mai-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -77,6 +77,7 @@
     "timeMonth": 578,
     "timeYear": 512,
     "dailyMinutesDown": {
+      "2021-07-26": 0,
       "2021-06-11": 48
     }
   }
