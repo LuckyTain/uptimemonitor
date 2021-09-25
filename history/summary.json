@@ -71,9 +71,9 @@
     "url": "https://woomai.me/",
     "icon": "https://favicons.githubusercontent.com/woomai.me",
     "slug": "woo-mai-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -83,6 +83,7 @@
     "timeMonth": 1419,
     "timeYear": 872,
     "dailyMinutesDown": {
+      "2021-09-25": 0,
       "2021-08-24": 17,
       "2021-06-11": 48
     }
