@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.69%",
-    "time": 703,
-    "timeDay": 657,
-    "timeWeek": 649,
-    "timeMonth": 803,
+    "time": 702,
+    "timeDay": 622,
+    "timeWeek": 648,
+    "timeMonth": 797,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2022-10-12": 117,
@@ -41,10 +41,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 824,
-    "timeDay": 879,
-    "timeWeek": 838,
+    "timeDay": 857,
+    "timeWeek": 836,
     "timeMonth": 953,
-    "timeYear": 848,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2022-08-17": 74,
       "2021-10-30": 71,
@@ -57,16 +57,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rbq.ai.ico",
     "slug": "rbq-ai",
     "status": "up",
-    "uptime": "94.54%",
+    "uptime": "94.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "78.34%",
     "uptimeYear": "93.13%",
     "time": 2129,
-    "timeDay": 1219,
-    "timeWeek": 1122,
-    "timeMonth": 4635,
-    "timeYear": 2285,
+    "timeDay": 193,
+    "timeWeek": 1009,
+    "timeMonth": 4609,
+    "timeYear": 2283,
     "dailyMinutesDown": {
       "2022-10-05": 381,
       "2022-10-04": 1440,
@@ -121,9 +121,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "98.57%",
     "time": 651,
-    "timeDay": 455,
-    "timeWeek": 456,
-    "timeMonth": 484,
+    "timeDay": 465,
+    "timeWeek": 452,
+    "timeMonth": 482,
     "timeYear": 469,
     "dailyMinutesDown": {
       "2022-10-12": 30,
@@ -144,8 +144,7 @@
       "2021-10-30": 278,
       "2021-10-29": 1440,
       "2021-10-28": 402,
-      "2021-10-25": 415,
-      "2021-10-24": 512
+      "2021-10-25": 415
     }
   }
 ]
