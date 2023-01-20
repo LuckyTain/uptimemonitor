@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 679,
-    "timeDay": 578,
-    "timeWeek": 657,
+    "timeDay": 697,
+    "timeWeek": 653,
     "timeMonth": 653,
     "timeYear": 688,
     "dailyMinutesDown": {
@@ -35,13 +35,13 @@
     "slug": "eq-blog",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "96.49%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.91%",
     "time": 850,
-    "timeDay": 546,
-    "timeWeek": 813,
+    "timeDay": 857,
+    "timeWeek": 818,
     "timeMonth": 850,
     "timeYear": 863,
     "dailyMinutesDown": {
@@ -64,9 +64,9 @@
     "uptimeMonth": "98.49%",
     "uptimeYear": "93.05%",
     "time": 2117,
-    "timeDay": 1063,
-    "timeWeek": 909,
-    "timeMonth": 1247,
+    "timeDay": 1080,
+    "timeWeek": 916,
+    "timeMonth": 1275,
     "timeYear": 2287,
     "dailyMinutesDown": {
       "2023-01-14": 280,
@@ -119,16 +119,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/woomai.me.ico",
     "slug": "woo-mai-blog",
     "status": "up",
-    "uptime": "98.78%",
+    "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.20%",
     "uptimeMonth": "99.30%",
-    "uptimeYear": "99.08%",
+    "uptimeYear": "99.12%",
     "time": 644,
-    "timeDay": 333,
-    "timeWeek": 429,
+    "timeDay": 507,
+    "timeWeek": 420,
     "timeMonth": 473,
-    "timeYear": 527,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2023-01-14": 236,
       "2023-01-13": 47,
@@ -146,8 +146,7 @@
       "2022-02-27": 708,
       "2022-02-10": 17,
       "2022-01-22": 934,
-      "2022-01-21": 1440,
-      "2022-01-20": 437
+      "2022-01-21": 1440
     }
   }
 ]
